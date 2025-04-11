@@ -1,1 +1,1 @@
-This is simple and basic mixture of html,css and javascript project which use to show your favourite cars.
+Developed a responsive and interactive car showcase website using HTML, CSS, and JavaScript, featuring a dynamic slider to display multiple car models with their specifications. Implemented navigation arrows for smooth transitions and user-friendly browsing experience.
